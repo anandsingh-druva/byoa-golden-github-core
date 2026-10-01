@@ -1,7 +1,8 @@
 # module 30
 import os
-LINE_THREE_30 = 30
 def f_30_a(): return 30
+def added_30_a(): return 'pr30'
+def added_30_b(): return 'pr30b'
 def f_30_b(): return 60
 X = 1
 Y = 2
