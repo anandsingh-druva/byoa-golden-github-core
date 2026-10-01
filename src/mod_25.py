@@ -1,7 +1,8 @@
 # module 25
 import os
-LINE_THREE_25 = 25
 def f_25_a(): return 25
+def added_25_a(): return 'pr25'
+def added_25_b(): return 'pr25b'
 def f_25_b(): return 50
 X = 1
 Y = 2
