@@ -1,7 +1,8 @@
 # module 14
 import os
-LINE_THREE_14 = 14
 def f_14_a(): return 14
+def added_14_a(): return 'pr14'
+def added_14_b(): return 'pr14b'
 def f_14_b(): return 28
 X = 1
 Y = 2
