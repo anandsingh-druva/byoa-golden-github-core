@@ -1,7 +1,8 @@
 # module 21
 import os
-LINE_THREE_21 = 21
 def f_21_a(): return 21
+def added_21_a(): return 'pr21'
+def added_21_b(): return 'pr21b'
 def f_21_b(): return 42
 X = 1
 Y = 2
