@@ -1,7 +1,8 @@
 # module 16
 import os
-LINE_THREE_16 = 16
 def f_16_a(): return 16
+def added_16_a(): return 'pr16'
+def added_16_b(): return 'pr16b'
 def f_16_b(): return 32
 X = 1
 Y = 2
