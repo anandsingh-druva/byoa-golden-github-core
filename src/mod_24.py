@@ -1,7 +1,8 @@
 # module 24
 import os
-LINE_THREE_24 = 24
 def f_24_a(): return 24
+def added_24_a(): return 'pr24'
+def added_24_b(): return 'pr24b'
 def f_24_b(): return 48
 X = 1
 Y = 2
