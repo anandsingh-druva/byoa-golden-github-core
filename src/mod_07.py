@@ -1,7 +1,8 @@
 # module 7
 import os
-LINE_THREE_7 = 7
 def f_7_a(): return 7
+def added_7_a(): return 'pr7'
+def added_7_b(): return 'pr7b'
 def f_7_b(): return 14
 X = 1
 Y = 2
