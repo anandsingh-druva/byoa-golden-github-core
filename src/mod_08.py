@@ -1,7 +1,8 @@
 # module 8
 import os
-LINE_THREE_8 = 8
 def f_8_a(): return 8
+def added_8_a(): return 'pr8'
+def added_8_b(): return 'pr8b'
 def f_8_b(): return 16
 X = 1
 Y = 2
