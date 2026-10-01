@@ -1,7 +1,8 @@
 # module 12
 import os
-LINE_THREE_12 = 12
 def f_12_a(): return 12
+def added_12_a(): return 'pr12'
+def added_12_b(): return 'pr12b'
 def f_12_b(): return 24
 X = 1
 Y = 2
