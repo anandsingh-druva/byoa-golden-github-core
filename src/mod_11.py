@@ -1,7 +1,8 @@
 # module 11
 import os
-LINE_THREE_11 = 11
 def f_11_a(): return 11
+def added_11_a(): return 'pr11'
+def added_11_b(): return 'pr11b'
 def f_11_b(): return 22
 X = 1
 Y = 2
