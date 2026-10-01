@@ -1,7 +1,8 @@
 # module 27
 import os
-LINE_THREE_27 = 27
 def f_27_a(): return 27
+def added_27_a(): return 'pr27'
+def added_27_b(): return 'pr27b'
 def f_27_b(): return 54
 X = 1
 Y = 2
