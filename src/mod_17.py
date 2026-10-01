@@ -1,7 +1,8 @@
 # module 17
 import os
-LINE_THREE_17 = 17
 def f_17_a(): return 17
+def added_17_a(): return 'pr17'
+def added_17_b(): return 'pr17b'
 def f_17_b(): return 34
 X = 1
 Y = 2
