@@ -1,7 +1,8 @@
 # module 5
 import os
-LINE_THREE_5 = 5
 def f_5_a(): return 5
+def added_5_a(): return 'pr5'
+def added_5_b(): return 'pr5b'
 def f_5_b(): return 10
 X = 1
 Y = 2
