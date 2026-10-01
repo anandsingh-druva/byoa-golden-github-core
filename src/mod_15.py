@@ -1,7 +1,8 @@
 # module 15
 import os
-LINE_THREE_15 = 15
 def f_15_a(): return 15
+def added_15_a(): return 'pr15'
+def added_15_b(): return 'pr15b'
 def f_15_b(): return 30
 X = 1
 Y = 2
