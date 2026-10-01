@@ -1,7 +1,8 @@
 # module 13
 import os
-LINE_THREE_13 = 13
 def f_13_a(): return 13
+def added_13_a(): return 'pr13'
+def added_13_b(): return 'pr13b'
 def f_13_b(): return 26
 X = 1
 Y = 2
