@@ -1,7 +1,8 @@
 # module 20
 import os
-LINE_THREE_20 = 20
 def f_20_a(): return 20
+def added_20_a(): return 'pr20'
+def added_20_b(): return 'pr20b'
 def f_20_b(): return 40
 X = 1
 Y = 2
