@@ -1,7 +1,8 @@
 # module 26
 import os
-LINE_THREE_26 = 26
 def f_26_a(): return 26
+def added_26_a(): return 'pr26'
+def added_26_b(): return 'pr26b'
 def f_26_b(): return 52
 X = 1
 Y = 2
