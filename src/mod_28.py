@@ -1,7 +1,8 @@
 # module 28
 import os
-LINE_THREE_28 = 28
 def f_28_a(): return 28
+def added_28_a(): return 'pr28'
+def added_28_b(): return 'pr28b'
 def f_28_b(): return 56
 X = 1
 Y = 2
