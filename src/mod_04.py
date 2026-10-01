@@ -1,7 +1,8 @@
 # module 4
 import os
-LINE_THREE_4 = 4
 def f_4_a(): return 4
+def added_4_a(): return 'pr4'
+def added_4_b(): return 'pr4b'
 def f_4_b(): return 8
 X = 1
 Y = 2
