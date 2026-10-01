@@ -1,7 +1,8 @@
 # module 29
 import os
-LINE_THREE_29 = 29
 def f_29_a(): return 29
+def added_29_a(): return 'pr29'
+def added_29_b(): return 'pr29b'
 def f_29_b(): return 58
 X = 1
 Y = 2
